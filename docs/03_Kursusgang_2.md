@@ -1,9 +1,6 @@
 [Retur](README.md)
 # Kursusgang 2
 
-### Slides
-[Slide kursusgang 2](Slide_2.html)
-
 ### SQL fil
 [Link til SQL fil](https://www.dropbox.com/s/24ln6eojrvyehhp/Dag_2.sql?dl=0)
 
