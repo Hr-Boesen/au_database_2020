@@ -331,6 +331,4 @@ I skal løse **Opgave 1**. Den skal afleveres på Moodle som en **SQL** fil
 # Opgave 1
 Du kan hente opgave 1 her som PDF - [Link](https://www.dropbox.com/s/gwv4k1luc52futs/Opgave_1.pdf?dl=0 "https://www.dropbox.com/s/gwv4k1luc52futs/Opgave_1.pdf?dl=0")
 
-Løsning til opgave 1: [Opgave 1 løsning](/sql_filer/Opgave_1.sql)
-
 [Retur](README.md)
