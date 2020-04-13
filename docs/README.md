@@ -1,4 +1,3 @@
-
 ### [Kursusgang 1](02_Kursusgang_1.md)
 
 * Introduktion
