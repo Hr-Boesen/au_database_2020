@@ -1,4 +1,4 @@
-# Grundlæggende database 2019 forår
+# Grundlæggende database 2020 forår
 AU obligatorisk database forår 2019
 
 GitHub Studerende link
