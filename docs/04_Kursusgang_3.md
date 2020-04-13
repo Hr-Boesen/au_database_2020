@@ -266,6 +266,4 @@ Det kan være du skal fjerne ekstra rækker eller ændre på dato formatet.
 ## Opgave 3
 Du kan hente opgave 3 her som PDF - [Opgave 3](Opgave_3.pdf)
 
-# Løsning på opgave 3 - [Løsning](/sql_filer/Opgave_3.sql)
-
 [Retur](README.md)
