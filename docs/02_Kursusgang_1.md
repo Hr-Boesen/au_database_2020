@@ -19,9 +19,9 @@ Du kan finde en vejledning for installation på Windows her: [Link](https://dev.
 
 Du kan finde en vejledning for installation på Mac her: [Link](https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html "https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html")
 
-**Installationsvideo MAC**
+**Installationsvideo Mac (MySQL, WorkBench og installation af databaser)**
 
-Installationsvejledningsvideo til Mac: [Link](https://www.youtube.com/watch?v=DZuMvmvpo6w)
+Du kan finde en Installationsvideo til Mac her: [Link](https://www.youtube.com/watch?v=DZuMvmvpo6w)
 
 ## Demo databaser
 *Hvad er et database kursus uden data?*
