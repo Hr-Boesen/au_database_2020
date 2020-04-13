@@ -20,6 +20,7 @@ Du kan finde en vejledning for installation på Windows her: [Link](https://dev.
 Du kan finde en vejledning for installation på Mac her: [Link](https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html "https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html")
 
 **Installationsvideo MAC**
+
 Installationsvejledningsvideo til Mac: [Link](https://www.youtube.com/watch?v=DZuMvmvpo6w)
 
 ## Demo databaser
