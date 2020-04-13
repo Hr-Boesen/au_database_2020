@@ -15,11 +15,16 @@ Du kan læse mere om MySQL her: [Link](https://www.mysql.com "www.mysql.com")
 
 Du kan finde en vejledning for installation på Windows her: [Link](https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html "https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html")
 
+
+## Installationsvideo Windows (MySQL, WorkBench)
+
+Du kan finde en Installationsvideo til Windows her: [Link](https://www.youtube.com/watch?v=xRMYVBefHY4)
+
 **Mac**
 
 Du kan finde en vejledning for installation på Mac her: [Link](https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html "https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html")
 
-**Installationsvideo Mac (MySQL, WorkBench og installation af databaser)**
+**Installationsvideo Mac (MySQL, WorkBench, installation af Northwind og Employees)**
 
 Du kan finde en Installationsvideo til Mac her: [Link](https://www.youtube.com/watch?v=DZuMvmvpo6w)
 
