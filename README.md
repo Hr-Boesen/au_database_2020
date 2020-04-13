@@ -2,4 +2,4 @@
 AU obligatorisk database forår 2019
 
 GitHub Studerende link
-[Link](https://datsoftlyngby.github.io/au_database_2019_1/)
+[Link](https://hr-boesen.github.io/au_database_2020/)
