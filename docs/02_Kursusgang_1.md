@@ -16,7 +16,7 @@ Du kan læse mere om MySQL her: [Link](https://www.mysql.com "www.mysql.com")
 Du kan finde en vejledning for installation på Windows her: [Link](https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html "https://dev.mysql.com/doc/refman/8.0/en/windows-installation.html")
 
 
-## Installationsvideo Windows (MySQL, WorkBench)
+**Installationsvideo Windows (MySQL, WorkBench)**
 
 Du kan finde en Installationsvideo til Windows her: [Link](https://www.youtube.com/watch?v=xRMYVBefHY4)
 
