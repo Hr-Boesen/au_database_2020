@@ -251,6 +251,4 @@ FROM Order_Details;
 ## Opgave 4
 Du kan hente opgave 4 her som PDF - [Opgave 4](Opgave_4.pdf)
 
-# Løsning opgave 4 - [Løsning](/sql_filer/Opgave_4.sql)
-
 [Retur](README.md)
