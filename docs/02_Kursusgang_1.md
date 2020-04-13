@@ -2,9 +2,6 @@
 
 # Kursusgang 1
 
-### SQL fil
-[Link til SQL fil](https://www.dropbox.com/s/2ianvrc5fb32ogn/Dag_1.sql?dl=0)
-
 ## Introduktion
 Det er Open Source databasen - MySQL du skal bruge.
 
@@ -21,6 +18,9 @@ Du kan finde en vejledning for installation på Windows her: [Link](https://dev.
 **Mac**
 
 Du kan finde en vejledning for installation på Mac her: [Link](https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html "https://dev.mysql.com/doc/refman/8.0/en/osx-installation.html")
+
+### Installationsvideo
+Installationsvejledningsvideo til Mac: [Link] https://www.youtube.com/watch?v=DZuMvmvpo6w
 
 ## Demo databaser
 *Hvad er et database kursus uden data?*
