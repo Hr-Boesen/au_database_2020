@@ -338,6 +338,4 @@ Fjern markering i **Safe Updates**
 # Opgave 2
 Du kan hente opgave 2 her som PDF - [Opgave 2](Opgave_2.pdf)
 
-# Løsning til opgave 2: [Opgave 2 løsning](/sql_filer/Opgave_2.sql)
-
 [Retur](README.md)
