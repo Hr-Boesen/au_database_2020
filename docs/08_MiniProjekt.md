@@ -14,18 +14,18 @@ Jeg er sikker på at du godt kan finde på "noget" at udarbejde en database over
 ## Afleveringer
 For at komme i gang med dette mini projekt er der følgende afleveringer løbende:
 
-- **06-02-2019 // Projekt 1**
+- **23-04-2020 // Projekt 1**
 	+ Kort (1/2 A4 side) beskrivelse af jeres projekt
-- **20-02-2019 // Projekt 2**
+- **30-04-2020 // Projekt 2**
 	+ Oversigt over tabeller med datatyper og nøgler
 	+ Starten på et ER-diagram
-- **27-02-2019 // Projekt 3**
+- **07-05-2020 // Projekt 3**
 	+ Overvejelser med hensyn til normalformer
 	+ ER-diagram med angivelse af alle nøgler og datatyper
-- **06-03-2019 // Projekt 4**
+- **14-05-2020 // Projekt 4**
 	+ Færdigt ER-diagram
 	+ Overvejelser i forhold til Indexer
-- **13-03-2019 // Projekt 5**
+- **21-05-2020 // Projekt 5**
 	+ *Helt* færdigt ER-diagram
 	+ Stored Procedure
 	+ Trigger
