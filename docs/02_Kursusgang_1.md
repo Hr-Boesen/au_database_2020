@@ -333,6 +333,7 @@ I skal læse følgende i SQL in easy steps
 - Kapitel 2 - Getting started
 
 I skal løse **Opgave 1**. Den skal afleveres på Moodle som en **SQL** fil
+I skal lave en kort (1/2 A4 side) beskrivelse af jeres projekt, Den skal afleveres på Moodle som en **PDF** fil
 
 # Opgave 1
 Du kan hente opgave 1 her som PDF - [Link](https://www.dropbox.com/s/gwv4k1luc52futs/Opgave_1.pdf?dl=0 "https://www.dropbox.com/s/gwv4k1luc52futs/Opgave_1.pdf?dl=0")
