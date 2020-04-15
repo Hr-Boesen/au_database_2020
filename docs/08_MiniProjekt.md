@@ -2,14 +2,14 @@
 
 # Mini Projekt
 
-Som udgangspunkt for eksamen skal i oprette en database.
-Den skal indeholder de "emner" vi har været igennem på kurset.
+Som udgangspunkt for eksamen skal du oprette en database.
+Den skal indeholde de "emner" vi har været igennem på kurset.
 
 Det kan være en database over noget på dit arbejde eller fra din fritid.
 
-*Måske har i på arbejde en Excel fil der med fordel kunne overføres til en database, hvad med sportsklubben eller ....*
+*Måske har du på dit arbejde en Excelfil der med fordel kunne overføres til en database, hvad med sportsklubben eller ....*
 
-Jeg er sikker på at du godt kan finde på "noget" at udarbejde en database over.
+Jeg er sikker på, at du godt kan finde på "noget" at udarbejde en database over.
 
 ## Afleveringer
 For at komme i gang med dette mini projekt er der følgende afleveringer løbende:
