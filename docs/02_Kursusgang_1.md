@@ -329,8 +329,10 @@ For at sortere i faldende orden skal du bruge **DESC**.
 # Næste gang - 23. April
 I skal læse følgende i SQL in easy steps
 
-- Kapitel 1 - Introducing SQL
-- Kapitel 2 - Getting started
+- Kapitel 1 - Introducing SQL (Frivilligt, da vi allerede har installeret)
+- Kapitel 2 - Getting started 
+- Kapitel 3 - Creating database tables
+- Kapitel 4 - Inserting data into tables
 
 I skal løse **Opgave 1**. Den skal afleveres på Moodle som en **SQL** fil
 
