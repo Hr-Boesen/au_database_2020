@@ -17,8 +17,9 @@ For at komme i gang med dette mini projekt er der følgende afleveringer løbend
 - **23-04-2020 // Projekt 1**
 	+ Kort (1/2 A4 side) beskrivelse af jeres projekt
 - **30-04-2020 // Projekt 2**
-	+ Oversigt over tabeller med datatyper og nøgler
-	+ Starten på et ER-diagram
+	+ Oversigt over tabeller med datatyper. Første skridt til et ER-diagram. 
+	Fx. hvis opgaven var at lave et Hotels database: En tabel med personer og en tabel med rum. 
+	(Afleveres som en EXCEL-fil)
 - **07-05-2020 // Projekt 3**
 	+ Overvejelser med hensyn til normalformer
 	+ ER-diagram med angivelse af alle nøgler og datatyper
