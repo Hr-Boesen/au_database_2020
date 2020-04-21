@@ -336,9 +336,12 @@ I skal læse følgende i SQL in easy steps
 
 Kapitel 13 - joining database tables
 
-Oversigt over tabeller med datatyper. Første skridt til et ER-diagram. 
-Fx. hvis opgaven var at lave et Hotels database: En tabel med personer og en tabel med rum. 
-(Afleveres som en EXCEL-fil)
+Projekt 2 afleveres (som en EXCEL-fil)
+Oversigt over tabeller med datatyper. 
+Første skridt til et ER-diagram. 
+Fx hvis opgaven var at lave et Hotels database: En tabel med personer og en tabel med rum. 
+
+Aflevering af opgave 2
 
 # Opgave 2
 Du kan hente opgave 2 her som PDF - [Opgave 2](Opgave_2.pdf)
