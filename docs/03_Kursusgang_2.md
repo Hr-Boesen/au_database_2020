@@ -1,9 +1,6 @@
 [Retur](README.md)
 # Kursusgang 2
 
-### SQL fil
-[Link til SQL fil](https://www.dropbox.com/s/24ln6eojrvyehhp/Dag_2.sql?dl=0)
-
 ## DATABASE
 For at oprette en ny database skal du bruge **CREATE**
 For at slette en eksisterende database skal du bruge **DROP**
