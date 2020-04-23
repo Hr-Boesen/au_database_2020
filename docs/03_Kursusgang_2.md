@@ -347,7 +347,7 @@ Aflevering af opgave 2
 Du kan hente opgave 2 her som PDF - [Opgave 2](Opgave_2.pdf)
 
 
-Christian Boesens noter med eksempler fra kursusgang 2: [Link til pdf-fil](2gang_databaser.pdf)
+Christian Boesens noter med eksempler fra kursusgang 2: [Link til pdf-fil](https://hr-boesen.github.io/au_database_2020/2gang_databaser.pdf)
 
 
 [Retur](README.md)
