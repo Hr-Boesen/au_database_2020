@@ -343,4 +343,8 @@ Du kan hente opgave 1 her som PDF - [Link](https://www.dropbox.com/s/gwv4k1luc52
 
 Løsning til opgave 1: [Opgave 1 løsning](/sql_filer/Opgave_1.sql)
 
+Christian Boesens noter med eksempler: [Noter med eksempler](1gang_databaser.pdf)
+
 [Retur](README.md)
+
+
