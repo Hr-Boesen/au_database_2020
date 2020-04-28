@@ -10,13 +10,13 @@
 [Link til SQL Demo Ansatte](/sql_filer/Dag_3_Ansatte.sql)
 
 ## Normalisering
-Formået med normalisering er at undgå redundans og gøre databasen lettere at vedligeholde.
+Formålet med normalisering er at undgå redundans og gøre databasen lettere at vedligeholde.
 
 *Redundans er er gentagelser - Når en information står flere gange*
 
-Der findes 6 normalformer og en "stramning" af den tredie ved navn Boyce-Cood normalformen.
+Der findes 6 normalformer og en "stramning" af den tredje ved navn Boyce-Cood normalformen.
 
-Typisk fortager man kun en normalisering op til den tredie normalform.
+Typisk fortager man kun en normalisering op til den tredje normalform.
 
 
 **1. Normalform (NF1)**
