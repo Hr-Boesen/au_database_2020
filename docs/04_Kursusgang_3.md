@@ -180,7 +180,9 @@ Kaldes også **RIGHT OUTER JOIN**
 Der findes også en **FULL JOIN**, der henter alle data fra begge tabeller.
 
 **Bemærk** at MySQL **IKKE** understøtter **FULL JOIN** 
-[Link til hvordan en full join kan løses med MySQL:](https://stackoverflow.com/questions/30092068/sql-full-outer-join-not-working "https://stackoverflow.com/questions/30092068/sql-full-outer-join-not-working")
+
+
+[Link til hvordan en full join kan løses med MySQL](https://stackoverflow.com/questions/30092068/sql-full-outer-join-not-working "https://stackoverflow.com/questions/30092068/sql-full-outer-join-not-working")
 
 ![](images/img_fulljoin.gif)
 
