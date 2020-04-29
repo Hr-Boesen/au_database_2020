@@ -41,12 +41,12 @@ Typisk fortager man kun en normalisering op til den tredje normalform.
 **Definition:** *En relation er på tredje normalform, hvis den er på anden normalform og det gælder, at ingen ikke-nøgle-attribut er transitivt afhængig af nogen kandidatnøgle i relationen.*
 
 * Tabellen skal opfylder 2. Normalform
-* Hvis der er mere end et felt der kan sættes som nøgle for andre felter skal tabellen opdeles i flere
+* Hvis der er mere end et felt der kan sættes som nøgle for andre felter, skal tabellen opdeles i flere
 
 {pagebreak}
 
 ### Eksempel - Skole
-Udgangspunktet er et regneark der bruges til at register elever og deres karakter.
+Udgangspunktet er et regneark der bruges til at registere elever og deres karakterer.
 
 **NF 0**
 
@@ -81,7 +81,7 @@ Du kan hente SQL koden her:
 {pagebreak}
 
 ## Relationer
-MySQL er en relationel database, hvilket betyder at data er opdelt i tabeller som det er muligt at oprette relationer i mellem.
+MySQL er en relationel database, hvilket betyder at data er opdelt i tabeller, som det er muligt at oprette relationer i mellem.
 
 Hver tabel har en primærnøgle, som består af et eller flere felter i tabellen. Primærnøglen skaber en unik identifikation af den enkelte række i tabellen. 
 
@@ -96,20 +96,20 @@ Der findes tre typer af relationer:
 
 **En til Mange**
 
-Det er denne relations type der typisk er flest af i en database. 
+Det er denne relationstype der typisk er flest af i en database. 
 
 I Northwind databasen har vi en typisk **En til Mange** relation mellem tabellerne **Customers** og **Orders**.
 
 Hver kunde står kun en gang i **Customeres** tabellen, men da hver kunde har en eller flere ordre står kunden flere gange i tabellen **Orders**.
 
-Det vil sige at relationen går fra primær nøglen **CustomerID** (*En siden*) i tabellen **Customeres** til fremmednøglen i, CustomerID i tabellen **Orderes** (*Mange siden*).
+Det vil sige at relationen går fra primær nøglen **CustomerID** (*En siden*) i tabellen **Customers** til fremmednøglen i, CustomerID i tabellen **Orders** (*Mange siden*).
 
 ![](images/EnTilMangeRelation.png)
 
 
 **En til En**
 
-Denne relations type bruges kun brugt af to grunde:
+Denne relationstype bruges kun af to grunde:
 
 * Sikkerhed
 * Opdeling af en meget stor tabel
@@ -126,19 +126,19 @@ Et eksempel kunne være fortrolige oplysninger som:
 * Løn
 * Pension
 
-Der er gemt i en selvstændig tabel som så er relateret til en tabel med det mere "almendelige" oplysninger som navn, mobilnummer, e-mail osv.
+Der er gemt i en selvstændig tabel som så er relateret til en tabel med det mere "almindelige" oplysninger som navn, mobilnummer, e-mail osv.
 
 **Mange til Mange**
 
-Det er **ikke** muligt at oprette en Mange til Mange relation i MySQL databasen.
+Det er **ikke** muligt at oprette en Mange til Mange relationer i MySQL databasen.
 
-En Mange til Mange relation skal løses ved at indskyde en ekstra tabel og så oprette to stk. En til Mange relationer.
+En Mange til Mange relation skal løses ved at indskyde en ekstra tabel mellem de to tabeller hvor relation er. 
 
 I Northwind databasen er der mange ordre og der er mange produkter - hver ordre består af et eller flere produkter.
 
 Der er altså en **Mange til Mange** relation mellem tabellerne **Orders** og **Products**.
 
-Dette løses var at oprette en ekstra tabel - Order_details - Da denne relationen melle de to tabeller **ikke** kan oprettes direkte.
+Dette løses var at oprette en ekstra tabel - Order_details - Da denne relationen mellem de to tabeller **ikke** kan oprettes direkte.
 
 ![](images/MangeTilMangeRelation.png)
 
@@ -197,7 +197,7 @@ Et **VIEW** har kolonner og poster som en tabel, men den bliver oprettet via en 
 Et **VIEW** kan erstatte en kompliceret SQL sætning.
 Det er altså nemmere for brugeren at hente data fra et **VIEW**.
 
-Et **VIEW** vil altid vises de nyeste data.
+Et **VIEW** vil altid vise de nyeste data.
 
 ```
 	CREATE VIEW view_navn AS
@@ -245,7 +245,7 @@ Denne finder du nemmest ved at højre klikke på den database du skal importere 
 5. Data importeres
 
 **Import SQL Kommando**
-Det er også muligt at fortage importen via en SQL kommando.
+Det er også muligt at foretage importen via en SQL kommando.
 
 ```
 LOAD DATA INFILE '/var/lib/mysql-files/postnumer.csv' 
@@ -256,11 +256,11 @@ LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
 ```
-Fordelen ved at bruge denne metode er at det er meget nemt og hurtigt at fortage importen igen, hvis det skulle være nøvendigt.
+Fordelen ved at bruge denne metode er at det er meget nemt og hurtigt at foretage importen igen, hvis det skulle være nøvendigt.
 
 **Klargøring af Data**
-Det er typisk en fordel at dine data er klargjort til import inden du starter på importen.
-Det kan være du skal fjerne ekstra rækker eller ændre på dato formatet.
+Det er typisk en fordel at dine data er klargjort til import inden du starter importen.
+Det kan være du skal fjerne ekstra rækker eller ændre på datoformatet.
 
 
 ## Opgave 3
