@@ -269,4 +269,12 @@ Det kan være du skal fjerne ekstra rækker eller ændre på datoformatet.
 ## Opgave 3
 Du kan hente opgave 3 her som PDF - [Opgave 3](Opgave_3.pdf)
 
+
+## Aflevering til 07-05-2020 
+
+- Overvejelser med hensyn til normalformer
+- ER-diagram med angivelse af alle nøgler og datatyper
+- løsning til opgave 3
+
+
 [Retur](README.md)
