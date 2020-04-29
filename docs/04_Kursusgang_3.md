@@ -71,7 +71,7 @@ Udgangspunktet er et regneark der bruges til at registere elever og deres karakt
 
 Over Skole i normalform 3. Med angivelse af datatyper og relationer melle de 5 tabeller.
 
-![](images/ER_Skole.png)
+![](images/skole_tabel.jpg)
 
 Du kan bruge Workbench til at tegne dit ER-diagram. Jeg vil dog altid anbefale at du starter med tegne ER-Diagrammet på et stykke papir.
 
@@ -104,7 +104,7 @@ Hver kunde står kun en gang i **Customeres** tabellen, men da hver kunde har en
 
 Det vil sige at relationen går fra primær nøglen **CustomerID** (*En siden*) i tabellen **Customers** til fremmednøglen i, CustomerID i tabellen **Orders** (*Mange siden*).
 
-![](images/EnTilMangeRelation.png)
+![](images/customers_og_orders_tabeller.jpg)
 
 
 **En til En**
@@ -140,7 +140,7 @@ Der er altså en **Mange til Mange** relation mellem tabellerne **Orders** og **
 
 Dette løses var at oprette en ekstra tabel - Order_details - Da denne relationen mellem de to tabeller **ikke** kan oprettes direkte.
 
-![](images/MangeTilMangeRelation.png)
+![](images/orders_order_details_products.jpg)
 
 {pagebreak}
 
