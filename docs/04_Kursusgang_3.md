@@ -281,7 +281,7 @@ Du kan hente opgave 3 her som PDF - [Opgave 3](Opgave_3.pdf)
 
 slides for dag 3 - [slides dag 3](https://drive.google.com/file/d/12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3/view?usp=sharing  "https://drive.google.com/file/d/12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3/view?usp=sharing")
 
-noter for dag 3 - [noter dag 3](https://drive.google.com/open?id=1RchUeYnNRY3maFPh3x4fER-ubY_nEG21"https://drive.google.com/open?id=1RchUeYnNRY3maFPh3x4fER-ubY_nEG21")
+noter for dag 3 - [noter dag 3](https://drive.google.com/open?id=1RchUeYnNRY3maFPh3x4fER-ubY_nEG21 "https://drive.google.com/open?id=1RchUeYnNRY3maFPh3x4fER-ubY_nEG21")
 
 
 [Retur](README.md)
