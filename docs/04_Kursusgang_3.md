@@ -276,9 +276,12 @@ Du kan hente opgave 3 her som PDF - [Opgave 3](Opgave_3.pdf)
 - ER-diagram med angivelse af alle nøgler og datatyper
 - løsning til opgave 3
 
+
+## Slides og noter dag 3
+
 slides for dag 3 - [slides dag 3](https://drive.google.com/file/d/12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3/view?usp=sharing  "https://drive.google.com/file/d/12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3/view?usp=sharing")
 
-køreplan for dag 3 - [køreplan dag 3](https://drive.google.com/open?id=12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3 "https://drive.google.com/open?id=12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3")
+noter for dag 3 - [noter dag 3](https://drive.google.com/open?id=12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3 "https://drive.google.com/open?id=12d3W5uePtBh8bR7qDZ5eWFEhi67DM0m3")
 
 
 [Retur](README.md)
