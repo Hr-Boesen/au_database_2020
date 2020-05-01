@@ -283,7 +283,7 @@ slides for dag 3 - [slides dag 3](https://drive.google.com/file/d/12d3W5uePtBh8b
 
 noter for dag 3 - [noter dag 3](https://drive.google.com/open?id=1RchUeYnNRY3maFPh3x4fER-ubY_nEG21 "https://drive.google.com/open?id=1RchUeYnNRY3maFPh3x4fER-ubY_nEG21")
 
-Løsning til opgave 3 - [Løsning opgave 3](Opgave_3.sql "Opgave_3.sql")
+Løsning til opgave 3 - [Løsning opgave 3](Opgave_3.sql)
 
 
 
