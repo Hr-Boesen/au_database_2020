@@ -251,9 +251,7 @@ FROM Order_Details;
 ## Aflevering til næste gang
 
 Opgave 4
-
 Færdigt ER-diagram
-
 Overvejelser i forhold til Indexer
 
 
