@@ -253,7 +253,7 @@ Du kan hente opgave 4 her som PDF - [Opgave 4](Opgave_4.pdf)
 
 slides for dag 4 - [slides dag 4](https://drive.google.com/open?id=1KyruDPVEhikPaxMOtWRbZ2MM4wQfvOF5 "https://drive.google.com/open?id=1KyruDPVEhikPaxMOtWRbZ2MM4wQfvOF5")
 
-noter for dag 4 - [noter dag 4]( "https://drive.google.com/open?id=13OWzswBtLqkmZuzMPSzG2PEmsVexREx1" https://drive.google.com/open?id=13OWzswBtLqkmZuzMPSzG2PEmsVexREx1)
+noter for dag 4 - [noter dag 4]( https://drive.google.com/open?id=13OWzswBtLqkmZuzMPSzG2PEmsVexREx1  "https://drive.google.com/open?id=13OWzswBtLqkmZuzMPSzG2PEmsVexREx1")
 
 Løsning til opgave 4 - [Løsning opgave 4](sql_filer/Opgave_4.sql)
 
