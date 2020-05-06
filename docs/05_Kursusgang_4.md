@@ -248,7 +248,16 @@ END AS 'Antal ordre'
 FROM Order_Details;
 ```
 
-## Opgave 4
+## Aflevering til næste gang
+
+Opgave 4
+
+Færdigt ER-diagram
+
+Overvejelser i forhold til Indexer
+
+
+## Opgave 4, slides, løsning og noter 
 Du kan hente opgave 4 her som PDF - [Opgave 4](Opgave_4.pdf)
 
 slides for dag 4 - [slides dag 4](https://drive.google.com/open?id=1KyruDPVEhikPaxMOtWRbZ2MM4wQfvOF5 "https://drive.google.com/open?id=1KyruDPVEhikPaxMOtWRbZ2MM4wQfvOF5")
