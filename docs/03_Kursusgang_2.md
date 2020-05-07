@@ -350,4 +350,8 @@ Du kan hente opgave 2 her som PDF - [Opgave 2](Opgave_2.pdf)
 Christian Boesens noter med eksempler fra kursusgang 2: [Link til pdf-fil](https://drive.google.com/open?id=1kIY24NtGpaJJCudPOX9raBjCrQN1-Dx4 "https://drive.google.com/open?id=1kIY24NtGpaJJCudPOX9raBjCrQN1-Dx4")
 
 
+Løsning til opgave 2 - [Løsning opgave 4](sql_filer/Opgave_2.sql)
+
+
+
 [Retur](README.md)
