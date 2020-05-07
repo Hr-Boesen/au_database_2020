@@ -260,7 +260,7 @@ Overvejelser i forhold til Indexer
 ## Opgave 4, slides, løsning og noter 
 Du kan hente opgave 4 her som PDF - [Opgave 4](Opgave_4.pdf)
 
-slides for dag 4 - [slides dag 4](https://drive.google.com/open?id=1KyruDPVEhikPaxMOtWRbZ2MM4wQfvOF5 "https://drive.google.com/open?id=1KyruDPVEhikPaxMOtWRbZ2MM4wQfvOF5")
+slides for dag 4 - [slides dag 4](https://drive.google.com/open?id=1njmmroQbI7QOCBlTvtcERDbBve7bHyb7 "https://drive.google.com/open?id=1njmmroQbI7QOCBlTvtcERDbBve7bHyb7")
 
 noter for dag 4 - [noter dag 4]( https://drive.google.com/open?id=13OWzswBtLqkmZuzMPSzG2PEmsVexREx1  "https://drive.google.com/open?id=13OWzswBtLqkmZuzMPSzG2PEmsVexREx1")
 
