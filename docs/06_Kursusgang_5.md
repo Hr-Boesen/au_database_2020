@@ -24,38 +24,38 @@ AS
 GO;
 ```
 
-Når ud skal "kører"/afvikle en STORED PROCEDURE skal du bruge denne SQL kommando
+Når du skal "køre"/afvikle en STORED PROCEDURE skal du bruge denne SQL kommando:
 
 ```
 EXEC procedure_navn;
 ```
 
-En SP bliver gemt i databasen, du kan se hvilke SP der ligger på den enkelte database i mappen **Stored Proceduers**
+En SP bliver gemt i databasen, du kan se hvilke SP der ligger på den enkelte database i mappen **Stored Procedueres**
 
 ![Stored Proceduers](images/StoredProceduers.png)
 
 **Der er flere fordele ved at bruge SP:**
 
-- Hvis den sammen SP bruges flere gange af den sammen forbindelse/applikation vil den blive afviklet hurtigere.
-- Der er mindre data-trafik mellem en applikation og MySQL databasen, da det kun er navnet på SP og evt. parameter der sendes over netværket.
+- Hvis den samme SP bruges flere gange af den samme forbindelse/applikation vil den blive afviklet hurtigere.
+- Der er mindre datatrafik mellem en applikation og MySQL databasen, da det kun er navnet på SP og evt. parameter der sendes over netværket.
 - Det er mere sikkert at bruge en SP, da adgange er begrænset til det SP har adgang til.
 
 **Der er dog også nogle ulemper ved at bruge** SP:
 
-- Det er svært at fejl-finde og fejl-rette en SP
-- Det kan være svært at vedligehold og have et overblik over mange SP
-- Hvis der er mange logiske operationer i en SP vil den bruge meget RAM.
-- 
+- Det er svært at fejlfinde og fejl-rette en SP
+- Det kan være svært at vedligeholde og have et overblik over mange SP
+- Hvis der er mange logiske operationer i en SP vil den bruge meget RAM. 
 
 ### DELIMITER
 
 Når du skal oprette en SP er det nødvendigt først at bruge en anden SQL kommando, DELIMITER.
 
-Problemet er at vi ønsker at sende **hele** SQL kommandoen for SP til serveren. I den SQL kode der indgår i SP'en er der en "indlejret" SQL kode afsluttes med **;**.
+Problemet er at vi ønsker at sende **hele** SQL kommandoen for SP til serveren. I den SQLkode der indgår i SP'en er der en "indlejret" SQL kode afsluttes med **;**.
 
-Det er derfor nødvendigt at ændre **DELIMITER** til noget andet end det normale **;** - oprette SP - sætte **DELIMITER** retur til **;**.
+Derfor kan man med MySQL bruge **DELIMITER** når man starter og afslutter en SP, da semikolon ikke længere kan bruges. 
 
-Du kan bruge flere forskellige ""tegn" til DELIMITER f.eks. // eller $$
+
+Du kan bruge flere forskellige "tegn" til DELIMITER f.eks. // eller $$
 
 Her sættes DELIMITER til **//** og tilbage til **;**
 
@@ -75,9 +75,9 @@ Det er ikke kun når du opretter SP at det er nødvendigt, det glæder f.eks. og
 
 ### VARIABLE
 
-En af de store fordele ved en SP er at du kan bruge variable, hvilket gør dine SP'er mere fleksible.
+En af de store fordele ved en SP er at du kan bruge variabler, hvilket gør dine SP'er mere fleksible.
 
-Når du vil bruge en variabel skal du angive (dimensionere) dens datatype. Det er de sammen datatyper som ved oprettelse af felter i en tabel du skal bruge. Typisk vil datatypen være det sammen som feltet du brugere variablen op mod.
+Når du vil bruge en variabel skal du angive (dimensionere) dens datatype. Det er de samme datatyper som ved oprettelse af felter i en tabel du skal bruge.
 
 **Eksempel Northwind** med én variabel (Aar) af typen INT - her er det retur typen af funktionen YEAR der afgør datatypen.
 
@@ -124,7 +124,7 @@ END $$
 DELIMITER ;
 ```
 
-Når du skal afvikle en SP med flere variabler skal angive dem i sammen rækkefølge som de er oprettet.
+Når du skal afvikle en SP med flere variabler skal angive dem i samme rækkefølge som de er oprettet.
 
 ```
 CALL OrderByYearMonth (1997, 5);
@@ -138,7 +138,7 @@ Du kan få vist de SP'er der er i den enkelte database med denne SQL kommando
 SHOW PROCEDURE STATUS WHERE db = 'database_navn';
 ```
 
-Hvid du geren vil se SQL koden for en bestem SP kan du bruge denne SQL kommando:
+Hvis du gerne vil se SQLkoden for en bestemt SP kan du bruge denne SQL kommando:
 
 ```
 SHOW CREATE PROCEDURE procedure_navn;
@@ -245,7 +245,7 @@ WHERE
     trigger_schema = 'database_navn';
 ```
 
-Der er også muligt at finde alle TRIGGERE på en bestem tabel.
+Der er også muligt at finde alle TRIGGERS for en bestemt tabel.
 
 ```
 SELECT * FROM
@@ -256,7 +256,7 @@ WHERE
 ```
 
 ### Slet TRIGGER
-Du sletter en TRIGGER ved at brugere denne SQL kommando
+Du sletter en TRIGGER ved at bruge denne SQL kommando
 
 ```
 DROP TRIGGER trigger_navn;
@@ -271,7 +271,7 @@ Fordelen ved at bruge CSV er at filformatet kan læses af mange andre programmer
 
 ### EXPORT
 
-Når du skal eksportere data skal du angive følgende parameter:
+Når du skal eksportere data skal du angive følgende parametre:
 
 - Filnavn: **INTO OUTFILE**
 - Tegn der "omslutter" felterne: **FIELDS ENCLOSED BY '"'**
@@ -279,7 +279,7 @@ Når du skal eksportere data skal du angive følgende parameter:
 - Afslutning: **ESCAPED BY '"'**
 - Linje skift: **LINES TERMINATED BY '\r\n';**
 
-Ud over det skal du udvælge de data du geren vil eksportere. Til det brugere du en almindelig SELECT sætning evt. med en WHERE på.
+Ud over det skal du udvælge de data du geren vil eksportere. Til det bruger du en almindelig SELECT sætning evt. med en WHERE på.
 
 **Eksempel fra Northwind** der eksportere alle kunder fra USA.
 
@@ -329,6 +329,6 @@ LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
 ```
 
-*Bemærk at den første* **ROW** *ikke importes, da den indeholder overskrifter.*
+*Bemærk at den første* **ROW** *ikke importeres, da den indeholder overskrifter.*
 
 [Retur](README.md)
