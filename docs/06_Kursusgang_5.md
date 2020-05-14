@@ -331,4 +331,12 @@ IGNORE 1 ROWS;
 
 *Bemærk at den første* **ROW** *ikke importeres, da den indeholder overskrifter.*
 
+### Aflevering til d. 21 maj
+
+Helt færdigt ER-diagram
+
+Stored Procedure 
+
+Trigger 
+
 [Retur](README.md)
