@@ -335,6 +335,8 @@ IGNORE 1 ROWS;
 
 slides for dag 5 - [slides dag 5](https://drive.google.com/open?id=1OQ_mg8LsXfK2EfDdZFAqlozZLnkd958M "https://drive.google.com/open?id=1OQ_mg8LsXfK2EfDdZFAqlozZLnkd958M")
 
+Noter for dag 5 - [Noter dag 5](https://drive.google.com/open?id=1kcLiHN0sJyRnsVa_0sg0nhtNz5KAMpk5 "https://drive.google.com/open?id=1kcLiHN0sJyRnsVa_0sg0nhtNz5KAMpk5")
+
 ### Aflevering til d. 21 maj
 
 Helt færdigt ER-diagram
