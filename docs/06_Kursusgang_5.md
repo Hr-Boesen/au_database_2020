@@ -331,6 +331,8 @@ IGNORE 1 ROWS;
 
 *Bemærk at den første* **ROW** *ikke importeres, da den indeholder overskrifter.*
 
+slides for dag 5 - [slides dag 5](https://drive.google.com/open?id=1OQ_mg8LsXfK2EfDdZFAqlozZLnkd958M "https://drive.google.com/open?id=1OQ_mg8LsXfK2EfDdZFAqlozZLnkd958M")
+
 ### Aflevering til d. 21 maj
 
 Helt færdigt ER-diagram
