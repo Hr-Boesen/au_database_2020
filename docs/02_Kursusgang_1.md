@@ -341,9 +341,9 @@ I skal lave en **kort (1/2 A4 side) beskrivelse af jeres projekt**, Den skal afl
 # Opgave 1
 Du kan hente opgave 1 her som PDF - [Link](https://www.dropbox.com/s/gwv4k1luc52futs/Opgave_1.pdf?dl=0 "https://www.dropbox.com/s/gwv4k1luc52futs/Opgave_1.pdf?dl=0")
 
-Løsning til opgave 1: [Opgave 1 løsning](/sql_filer/Opgave_1.sql) databaserdag1.pdf
+Løsning til opgave 1: [Opgave 1 løsning](/sql_filer/Opgave_1.sql)
 
-Slideshow: [Slideshow](databaserdag1.pdf)
+Slideshow: [Slideshow fra dag 1](databaserdag1.pdf)
 
 Christian Boesens noter med eksempler fra kursusgang 1: [Link til pdf-fil](https://drive.google.com/open?id=1I8RjGXzuPrZN3wWiFywdq0tXSzr-aoZA "https://drive.google.com/open?id=1I8RjGXzuPrZN3wWiFywdq0tXSzr-aoZA")
 
