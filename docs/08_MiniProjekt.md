@@ -14,19 +14,19 @@ Jeg er sikker på, at du godt kan finde på "noget" at udarbejde en database ove
 ## Afleveringer
 For at komme i gang med dette mini projekt er der følgende afleveringer løbende:
 
-- **23-04-2020 // Projekt 1**
+- **03-09-2020 // Projekt 1**
 	+ Kort (1/2 A4 side) beskrivelse af jeres projekt
-- **30-04-2020 // Projekt 2**
+- **10-09-2020 // Projekt 2**
 	+ Oversigt over tabeller med datatyper. Første skridt til et ER-diagram. 
 	Fx. hvis opgaven var at lave et Hotels database: En tabel med personer og en tabel med rum. 
 	(Afleveres som en EXCEL-fil)
-- **07-05-2020 // Projekt 3**
+- **17-09-2020 // Projekt 3**
 	+ Overvejelser med hensyn til normalformer
 	+ ER-diagram med angivelse af alle nøgler og datatyper
-- **14-05-2020 // Projekt 4**
+- **24-09-2020 // Projekt 4**
 	+ Færdigt ER-diagram
 	+ Overvejelser i forhold til Indexer
-- **21-05-2020 // Projekt 5**
+- **01-10-2020 // Projekt 5**
 	+ *Helt* færdigt ER-diagram
 	+ Stored Procedure
 	+ Trigger
