@@ -334,7 +334,7 @@ I skal læse følgende i SQL in easy steps
 - Kapitel 3 - Creating database tables
 - Kapitel 4 - Inserting data into tables
 
-I skal løse **Opgave 1**. Den skal afleveres på Moodle som en **SQL** fil
+I skal løse **Opgave 1**
 
 I skal lave en **kort (1/2 A4 side) beskrivelse af jeres projekt**, Den skal afleveres på Moodle som en **PDF** fil
 
