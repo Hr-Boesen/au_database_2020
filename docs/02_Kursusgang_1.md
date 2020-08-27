@@ -343,7 +343,7 @@ Du kan hente opgave 1 her som PDF - [Link](https://www.dropbox.com/s/gwv4k1luc52
 
 Løsning til opgave 1: [Opgave 1 løsning](/sql_filer/Opgave_1.sql) databaserdag1.pdf
 
-Slideshow: [Opgave 1 løsning](databaserdag1.pdf)
+Slideshow: [Slideshow](databaserdag1.pdf)
 
 Christian Boesens noter med eksempler fra kursusgang 1: [Link til pdf-fil](https://drive.google.com/open?id=1I8RjGXzuPrZN3wWiFywdq0tXSzr-aoZA "https://drive.google.com/open?id=1I8RjGXzuPrZN3wWiFywdq0tXSzr-aoZA")
 
