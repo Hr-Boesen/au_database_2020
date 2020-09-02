@@ -112,12 +112,12 @@ For at ændre en eksisterende kolonne skal du bruge SQL kommando **MODIFY**
 
 
 ## PRIMARY KEY
-En primær nøgle er et felt der unikt definere en bestemt post.
-Primær nøgle felter **skal** indeholde unikke værdier og må ikke være tomme (NULL).
+En primærnøgle er et felt der unikt definere en bestemt post.
+Primærnøglefelter **skal** indeholde unikke værdier og må ikke være tomme (NULL).
 
-En tabel kan kun have **en** primær nøle, men denne kan godt være en kombination af flere felter.
+En tabel kan kun have **en** primærnøgle, men denne kan godt være en kombination af flere felter.
 
-Du tilføjer en primær nøgle, ved oprettelsen af en tabel, på følgende måde:
+Du tilføjer en primærnøgle, ved oprettelsen af en tabel, på følgende måde:
 
 ```
 	CREATE TABLE Kunder
@@ -134,7 +134,7 @@ Du tilføjer en primær nøgle, ved oprettelsen af en tabel, på følgende måde
 		); 
 ```
 
-Hvis du skal tilføje en primær nøgle efter at tabeller er oprette skal du bruge ALTER TABLE
+Hvis du skal tilføje en primærnøgle efter at tabeller er oprette skal du bruge ALTER TABLE
 
 ```
 	ALTER TABLE Kunder
