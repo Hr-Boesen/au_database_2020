@@ -134,7 +134,7 @@ Du tilføjer en primærnøgle, ved oprettelsen af en tabel, på følgende måde:
 		); 
 ```
 
-Hvis du skal tilføje en primærnøgle efter at tabeller er oprette skal du bruge ALTER TABLE
+Hvis du skal tilføje en primærnøgle efter at tabellerne er oprettet skal du bruge ALTER TABLE
 
 ```
 	ALTER TABLE Kunder
@@ -146,13 +146,13 @@ eller med et navn
 	ADD CONSTRAINT PK_KundeId PRIMARY KEY (Kunde_Id);	
 ```
 
-Det er ikke et krav at den tabel har en primær nøgle, men det er **klart** at anbefale.
+Det er ikke et krav at en tabel har en primærnøgle, men det er **klart** at anbefale.
 
 
 ## NOT NULL
 Et felt uden en værdi har i SQL værdien NULL. Det må **ikke** forveksles med værdien 0. En NULL værdi kommer når der ikke indsættes nogen værdi i feltet.
 
-Som standard kan alle kolonner, undtaget primærnøgle kolonnen, indeholder NULL værdier. Det er muligt for dig at styre om det skal være muligt at indsætte NULL værdier eller ej. På denne måde kan du gennemtvinge at et felt altid indeholder en værdi.
+Som standard kan alle kolonner, undtaget primærnøglekolonnen, indeholde NULL værdier. Det er muligt for dig at styre om det skal være muligt at indsætte NULL værdier eller ej. På denne måde kan du gennemtvinge at et felt altid indeholder en værdi.
 
 ```
 	CREATE TABLE	Kunder
@@ -215,7 +215,7 @@ Du kan slette en default betingelse med
 
 
 ## AUTO INCREMENT
-Ved at bruge **AUTO INCREMENT** kan du automatisk få et fortløbende nummer på en kolonne. Det vil typisk være din primær nøgle.
+Ved at bruge **AUTO INCREMENT** kan du automatisk få et fortløbende nummer på en kolonne. Det vil typisk være din primærnøgle.
 
 ```
 	CREATE TABLE	Kunder
@@ -276,7 +276,7 @@ Hvis du vil ændre på eksisterende værdier skal du bruge UPDATE kommandoen.
 
 **Bemærk** - hvis du **ikke** har en WHERE betingelse vil det være **hele** kolonnen der bliver opdateret. 
 
-Det vil typisk være primær nøglen der bruges i WHERE betingelsen.
+Det vil typisk være primærnøglen der bruges i WHERE betingelsen.
 
 
 ## DELETE
@@ -290,7 +290,7 @@ Hvis du vil slette en post skal du bruge DELETE
 	WHERE Kunde_Id = 2;
 ```
 
-Husk at bruge en WHERE betingelser, elleres vil du få slettet alle poster i tabellen.
+Husk at bruge en WHERE betingelse, ellers vil du få slettet alle poster i tabellen.
 
 
 ## SAFE MODE
@@ -307,7 +307,7 @@ Disse virker **IKKE** hvis SAFE MODE er aktiv.
 	WHERE Kunde_Navn = 'Cykel Importen';
 ```
 
-Hvis du ønsker at slette eller opdatere uden at bruge en primærnøgle, kan du ændre denne sikkerhed indstilling på 2 måder.
+Hvis du ønsker at slette eller opdatere uden at bruge en primærnøgle, kan du ændre denne sikkerhedsindstilling på 2 måder.
 
 **Via SQL**
 Indsæt denne SQL kommando før din DELETE/UPDATE sætning
@@ -316,7 +316,7 @@ Indsæt denne SQL kommando før din DELETE/UPDATE sætning
 	SET SQL_SAFE_UPDATES = 0;
 ```
 
-Da denne indstilling faktisk er en rigtig god sikkerheds indstilling vil det være en anbefaling at sætte den retur når du har udført dine kommandoer.
+Da denne indstilling faktisk er en rigtig god sikkerhedsindstilling vil det være en anbefaling at sætte den retur når du har udført dine kommandoer.
 
 ```
 	SET SQL_SAFE_UPDATES = 1;
