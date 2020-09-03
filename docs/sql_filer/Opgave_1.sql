@@ -81,7 +81,7 @@ where MONTH(birth_date) = 12;
     
     Tip: brug MONTH(hire_date)
     
-    Resultat: 49.826 Rows
+    Resultat: 48.371 Rows
 */
 select * from employees
 where month(hire_date) = 11
