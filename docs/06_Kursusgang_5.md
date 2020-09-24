@@ -264,9 +264,9 @@ DROP TRIGGER trigger_navn;
 
 ### slides og noter
 
-slides for dag 5 - [slides dag 5](https://drive.google.com/open?id=1OQ_mg8LsXfK2EfDdZFAqlozZLnkd958M "https://drive.google.com/open?id=1OQ_mg8LsXfK2EfDdZFAqlozZLnkd958M")
+slides for dag 5 - [slides dag 5](slides_dag_5.pdf "slides_dag_5.pdf")
 
-Noter for dag 5 - [Noter dag 5](https://drive.google.com/open?id=1kcLiHN0sJyRnsVa_0sg0nhtNz5KAMpk5 "https://drive.google.com/open?id=1kcLiHN0sJyRnsVa_0sg0nhtNz5KAMpk5")
+Noter for dag 5 - [Noter dag 5](noter_dag_5.sql "noter_dag_5.sql")
 
 ### Aflevering til d. 21 maj
 
