@@ -264,7 +264,7 @@ DROP TRIGGER trigger_navn;
 
 ### slides og noter
 
-slides for dag 5 - [slides dag 5](slides_dag_5.pdf "slides_dag_5.pdf")
+slides for dag 5 - [slides dag 5](slides_dag_5 .pdf "slides_dag_5 .pdf")
 
 Noter for dag 5 - [Noter dag 5](noter_dag_5.sql "noter_dag_5.sql")
 
