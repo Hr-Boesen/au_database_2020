@@ -40,6 +40,7 @@ insert into library(LibraryName, Address) values
 insert into BooksInLibraries(BookId, LibraryId, NumberOfBooks) values
 (1,2,3),(1,3,1),(2,1,2),(2,2,1),(3,1,1),(3,2,2),(3,3,2);
 
+
 insert into library(LibraryName, Address) values
 ("lib A", "A Road"),("lib B", "B Road"),("lib C", "C Road");
 
@@ -248,7 +249,7 @@ DELIMITER $$ CREATE TRIGGER before_employee_update
 BEFORE UPDATE ON Employees 
 FOR EACH ROW BEGIN 
 INSERT INTO employees_audit SET action = 'update', 
-EmployeeID = OLD.EmployeeID, LastName = OLD.LastName, changedate = NOW(); 
+EmployeeID = OLD.EmployeeID, LastName = OLD.LastName, Changedate = NOW(); 
 END $$ DELIMITER ; 
 
 -- Test af Trigger 
