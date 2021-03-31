@@ -326,7 +326,7 @@ For at sortere i faldende orden skal du bruge **DESC**.
 	select * from Order_Details
 	order by UnitPrice DESC;
 ```
-# Næste gang - 3. September
+# Næste gang - 22. April 
 I skal læse følgende i SQL in easy steps
 
 - Kapitel 1 - Introducing SQL (Frivilligt, da vi allerede har installeret)
