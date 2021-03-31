@@ -268,7 +268,7 @@ slides for dag 5 - [slides dag 5](https://drive.google.com/file/d/1sMNTAf9BNdq3P
 
 Noter for dag 5 - [Noter dag 5](noter_dag_5.sql "noter_dag_5.sql")
 
-### Aflevering til d. 1. Okt.
+### Næste gang 20 maj
 
 Helt færdigt ER-diagram
 
