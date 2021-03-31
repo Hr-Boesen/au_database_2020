@@ -248,7 +248,7 @@ END AS 'Antal ordre'
 FROM Order_Details;
 ```
 
-## Aflevering til næste gang
+## Næste gang 13 maj
 
 Løsning til Opgave 4
 
