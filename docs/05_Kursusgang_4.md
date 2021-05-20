@@ -248,7 +248,11 @@ END AS 'Antal ordre'
 FROM Order_Details;
 ```
 
-## Næste gang 13 maj
+## Biblioteksopgave som løses i undervisningstiden d. 20 maj
+Biblioteksopgave - [Link](https://docs.google.com/document/d/1DzlYTivp-5S8hoOtynDtkQIzDpKc2A55QAZ4VXTv208/edit?usp=sharing "https://docs.google.com/document/d/1DzlYTivp-5S8hoOtynDtkQIzDpKc2A55QAZ4VXTv208/edit?usp=sharing")
+
+
+## Næste gang 27 maj
 
 Løsning til Opgave 4
 
