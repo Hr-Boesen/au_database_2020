@@ -270,7 +270,7 @@ Det kan være du skal fjerne ekstra rækker eller ændre på datoformatet.
 Du kan hente opgave 3 her som PDF - [Opgave 3](Opgave_3.pdf)
 
 
-## Næste gang 6. maj
+## Næste gang 18. November
 
 - Overvejelser med hensyn til normalformer
 - ER-diagram med angivelse af alle nøgler og datatyper
