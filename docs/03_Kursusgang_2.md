@@ -331,7 +331,7 @@ Fjern markering i **Safe Updates**
 
 ![SafeUpdate](images/safeupdate.png)
 
-# Næste gang - 20. april
+# Næste gang - 27. april
 I skal læse følgende i SQL in easy steps
 
 Kapitel 13 - joining database tables
