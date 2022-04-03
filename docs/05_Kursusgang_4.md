@@ -252,7 +252,7 @@ FROM Order_Details;
 Biblioteksopgave - [Link](https://docs.google.com/document/d/1DzlYTivp-5S8hoOtynDtkQIzDpKc2A55QAZ4VXTv208/edit?usp=sharing "https://docs.google.com/document/d/1DzlYTivp-5S8hoOtynDtkQIzDpKc2A55QAZ4VXTv208/edit?usp=sharing")
 
 
-## Næste gang D. 25. November
+## Næste gang d. 12. april
 
 Løsning til Opgave 4
 
